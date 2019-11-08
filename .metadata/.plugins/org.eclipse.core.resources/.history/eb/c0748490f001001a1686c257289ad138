@@ -1,0 +1,14 @@
+package com.basic.polymorphism.MainEntry;
+
+import com.basic.polymorphism.parent.Animal;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Animal animal = new Animal();
+
+	}
+
+}

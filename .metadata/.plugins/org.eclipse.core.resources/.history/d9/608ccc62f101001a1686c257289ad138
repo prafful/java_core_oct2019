@@ -1,0 +1,26 @@
+package com.basic.polymorphism.MainEntry;
+
+import com.basic.polymorphism.child.Lion;
+import com.basic.polymorphism.parent.Animal;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Animal animal = new Animal(); 	//instance of type animal
+		Lion lion = new Animal(); 		//instance of type lion
+		
+		animal.makeSound();
+		animal.walks();
+		
+		System.out.println("--------------------------------------------------------");
+		
+		lion.makeSound();
+		lion.walks();
+		
+		
+
+	}
+
+}
