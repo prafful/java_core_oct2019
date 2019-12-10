@@ -1,9 +1,0 @@
-package com.basic.polymorphism;
-
-public class Animal {
-	
-	public void makeSound() {
-		
-	}
-
-}

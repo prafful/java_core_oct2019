@@ -1,2 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="com.basic.polymorphism.parent.Animal"/>
+<fullyQualifiedTypeName name="com.basic.polymorphism.child.Lion"/>
+<fullyQualifiedTypeName name="com.example.gc.Mathematics"/>
+<fullyQualifiedTypeName name="com.beginner.abstraction.Car"/>
+<fullyQualifiedTypeName name="com.beginner.abstraction.SUV"/>
+<fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="com.example.abstractclass.School"/>
+<fullyQualifiedTypeName name="com.example.abstractclass.MainEntry"/>
+<fullyQualifiedTypeName name="com.example.abstractclass.Student"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="com.beginner.springcore.Welcome"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="com.beginner.springcore.Community"/>
+</qualifiedTypeNameHistroy>

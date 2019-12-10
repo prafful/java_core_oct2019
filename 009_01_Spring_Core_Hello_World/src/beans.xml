@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+			xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+			xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd"
+
+> 
+
+
+<bean id="welcomeBean" class="com.beginner.springcore.Welcome">
+	<property name="message" value="Spring Core Way!!!!WOW!"></property>
+</bean>
+
+<bean id="communityBean" class="com.beginner.springcore.Community">
+	<property name="members" value="22"></property>
+	<property name="location" value="Chennai"></property>
+
+</bean>
+
+
+</beans>

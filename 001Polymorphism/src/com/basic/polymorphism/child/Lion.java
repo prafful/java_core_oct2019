@@ -3,7 +3,7 @@ package com.basic.polymorphism.child;
 import com.basic.polymorphism.parent.Animal;
 
 
-public class Lion extends Animal{
+public  class Lion extends Animal{
 
 	@Override
 	public void makeSound() {
